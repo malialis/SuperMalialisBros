@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - QuestionBlock
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -11,13 +13,13 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - Pipes
+  - Blocks
+  - Floor
+  - Wall
+  - Fire
   - 
   - 
   - 
@@ -38,6 +40,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3668474567
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Blocks
+    uniqueID: 3081743639
+    locked: 0
+  - name: Player
+    uniqueID: 2003864863
     locked: 0

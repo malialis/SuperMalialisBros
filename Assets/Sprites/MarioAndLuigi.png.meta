@@ -735,6 +735,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -5812,6 +5813,244 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      NES - Super Mario Bros - Mario & Luigi_80: 5747242787817006742
+      NES - Super Mario Bros - Mario & Luigi_66: 1627938212863105887
+      NES - Super Mario Bros - Mario & Luigi_201: -8652109801589394402
+      NES - Super Mario Bros - Mario & Luigi_177: 3593463151202440022
+      MarioPoll01: 2918468122476564140
+      NES - Super Mario Bros - Mario & Luigi_77: -3646463995379545476
+      MarioSwim02: 7150129591449456395
+      NES - Super Mario Bros - Mario & Luigi_150: 2307677287342177011
+      NES - Super Mario Bros - Mario & Luigi_57: 5185381732934437118
+      MarioSwim05: -5805076360984774150
+      NES - Super Mario Bros - Mario & Luigi_202: -1650804596913206821
+      NES - Super Mario Bros - Mario & Luigi_41: 5404101272384728333
+      NES - Super Mario Bros - Mario & Luigi_116: 9116177605669353326
+      NES - Super Mario Bros - Mario & Luigi_18: -5225613335145451781
+      NES - Super Mario Bros - Mario & Luigi_172: 618338155046827641
+      NES - Super Mario Bros - Mario & Luigi_224: -6751609449723118135
+      NES - Super Mario Bros - Mario & Luigi_153: -7042457048986320724
+      NES - Super Mario Bros - Mario & Luigi_229: 1398347455048011333
+      NES - Super Mario Bros - Mario & Luigi_148: 4444969160750415599
+      SmallMarioSwim05: -4464793262571646435
+      NES - Super Mario Bros - Mario & Luigi_200: -2001613280533049829
+      MarioRun03: -1722880701110963352
+      NES - Super Mario Bros - Mario & Luigi_178: 4399790088703082857
+      NES - Super Mario Bros - Mario & Luigi_210: -1383368167806058001
+      NES - Super Mario Bros - Mario & Luigi_149: -7361060431302670399
+      NES - Super Mario Bros - Mario & Luigi_197: -1184596336334370887
+      NES - Super Mario Bros - Mario & Luigi_70: -6927331103484904841
+      NES - Super Mario Bros - Mario & Luigi_98: -584747022588853677
+      NES - Super Mario Bros - Mario & Luigi_109: -6601960041002309669
+      NES - Super Mario Bros - Mario & Luigi_199: -1254642573982171173
+      NES - Super Mario Bros - Mario & Luigi_215: 7688828765727266697
+      NES - Super Mario Bros - Mario & Luigi_214: 5874695708858473275
+      NES - Super Mario Bros - Mario & Luigi_44: -1516338512573333064
+      NES - Super Mario Bros - Mario & Luigi_181: 3767581560641048886
+      NES - Super Mario Bros - Mario & Luigi_133: -4884308708716659244
+      NES - Super Mario Bros - Mario & Luigi_175: 6048146648166256448
+      NES - Super Mario Bros - Mario & Luigi_118: 7487958156491893332
+      NES - Super Mario Bros - Mario & Luigi_144: -5981512682336671781
+      SmallMarioTurn: 294301774663055213
+      NES - Super Mario Bros - Mario & Luigi_184: 7160792058514466374
+      NES - Super Mario Bros - Mario & Luigi_198: -4294016401486054192
+      NES - Super Mario Bros - Mario & Luigi_54: 7529333698573670241
+      NES - Super Mario Bros - Mario & Luigi_104: 8646964347294701060
+      NES - Super Mario Bros - Mario & Luigi_185: -3071931390531319292
+      NES - Super Mario Bros - Mario & Luigi_55: 1502673944780204781
+      NES - Super Mario Bros - Mario & Luigi_101: -9154901963003805788
+      NES - Super Mario Bros - Mario & Luigi_141: -6239460293432087443
+      NES - Super Mario Bros - Mario & Luigi_143: 8106103080354738417
+      NES - Super Mario Bros - Mario & Luigi_167: -3728599971202041117
+      NES - Super Mario Bros - Mario & Luigi_174: 6899492858903990356
+      NES - Super Mario Bros - Mario & Luigi_204: 8644427595669461105
+      NES - Super Mario Bros - Mario & Luigi_165: 2577359533319923336
+      NES - Super Mario Bros - Mario & Luigi_1: 6991265327970168251
+      NES - Super Mario Bros - Mario & Luigi_43: -5128229922994808073
+      NES - Super Mario Bros - Mario & Luigi_67: -3921259357301461002
+      NES - Super Mario Bros - Mario & Luigi_20: 2754600019408082847
+      NES - Super Mario Bros - Mario & Luigi_49: 8390708615747191397
+      SmallMarioJump: 2380067553346258572
+      NES - Super Mario Bros - Mario & Luigi_46: 6237303858336549804
+      NES - Super Mario Bros - Mario & Luigi_196: 8930028504354106442
+      NES - Super Mario Bros - Mario & Luigi_130: 4732701089971749846
+      NES - Super Mario Bros - Mario & Luigi_194: 3452160726907815942
+      NES - Super Mario Bros - Mario & Luigi_156: 8333933293852732414
+      NES - Super Mario Bros - Mario & Luigi_102: -3864993475416975024
+      NES - Super Mario Bros - Mario & Luigi_83: 7444853809905589352
+      NES - Super Mario Bros - Mario & Luigi_183: -8844986665260716957
+      NES - Super Mario Bros - Mario & Luigi_122: 9104277175439325904
+      NES - Super Mario Bros - Mario & Luigi_19: -841604874854819383
+      NES - Super Mario Bros - Mario & Luigi_113: -6622292774304688968
+      NES - Super Mario Bros - Mario & Luigi_51: -1813516367630779631
+      NES - Super Mario Bros - Mario & Luigi_232: -2443158311230803625
+      NES - Super Mario Bros - Mario & Luigi_114: -6274460497325394336
+      NES - Super Mario Bros - Mario & Luigi_182: 392620261120638606
+      NES - Super Mario Bros - Mario & Luigi_164: 1263313444100474383
+      NES - Super Mario Bros - Mario & Luigi_72: -8439365332812771906
+      NES - Super Mario Bros - Mario & Luigi_85: 7612849735104678338
+      NES - Super Mario Bros - Mario & Luigi_221: 3127788395724306335
+      NES - Super Mario Bros - Mario & Luigi_134: 8959224436228209743
+      NES - Super Mario Bros - Mario & Luigi_78: 6837173417077826520
+      MarioRunTurn: 7355402682590795222
+      NES - Super Mario Bros - Mario & Luigi_222: -8383121233578459368
+      NES - Super Mario Bros - Mario & Luigi_179: 7488953251764618362
+      SmallMarioIdle: -7092524186253238448
+      MarioIdle: -1982787768944201416
+      NES - Super Mario Bros - Mario & Luigi_166: 2131226833312807520
+      NES - Super Mario Bros - Mario & Luigi_123: 1716703260170416953
+      SmallMarioSwim01: -7756326663481618889
+      NES - Super Mario Bros - Mario & Luigi_157: 5777794462278239069
+      MarioWalk03: 3991841793721308301
+      NES - Super Mario Bros - Mario & Luigi_140: -4567304062576660594
+      NES - Super Mario Bros - Mario & Luigi_161: 723323651089777626
+      NES - Super Mario Bros - Mario & Luigi_59: 7674476429197608089
+      NES - Super Mario Bros - Mario & Luigi_193: 2877160380811239499
+      NES - Super Mario Bros - Mario & Luigi_227: 3872484241253768474
+      MarioRun04: 157747728090577544
+      NES - Super Mario Bros - Mario & Luigi_129: 5342915907709317620
+      MarioPoll02: 9084981724015219437
+      NES - Super Mario Bros - Mario & Luigi_61: -9205593067182592212
+      NES - Super Mario Bros - Mario & Luigi_121: 6031101520016188941
+      NES - Super Mario Bros - Mario & Luigi_96: -2884701686681234836
+      MarioJump: 4449869497627226960
+      SmallMarioPole01: -6658439809007469494
+      NES - Super Mario Bros - Mario & Luigi_64: 5169384530018240762
+      NES - Super Mario Bros - Mario & Luigi_189: -8745189863182374227
+      NES - Super Mario Bros - Mario & Luigi_225: -6268274475087878664
+      NES - Super Mario Bros - Mario & Luigi_231: 7353415900668323174
+      NES - Super Mario Bros - Mario & Luigi_111: -5218942949146655026
+      MarioCrouch: 2415853165465825584
+      MarioSwim01: 5560389364097845957
+      NES - Super Mario Bros - Mario & Luigi_58: 904646795099362830
+      NES - Super Mario Bros - Mario & Luigi_50: 935720638182008345
+      NES - Super Mario Bros - Mario & Luigi_226: 8468588664898189622
+      NES - Super Mario Bros - Mario & Luigi_40: 75498075158202159
+      NES - Super Mario Bros - Mario & Luigi_190: 5035296643152118714
+      NES - Super Mario Bros - Mario & Luigi_145: 3956931298437785387
+      MarioRun01: -5278619211028989792
+      NES - Super Mario Bros - Mario & Luigi_90: 3604899286087998654
+      NES - Super Mario Bros - Mario & Luigi_119: 6196541943515788941
+      NES - Super Mario Bros - Mario & Luigi_207: 6900307418689827128
+      NES - Super Mario Bros - Mario & Luigi_154: 1932632711391341320
+      MarioSwim03: -4128720620083873039
+      NES - Super Mario Bros - Mario & Luigi_228: 2362130254477328587
+      SmallMarioSwim04: -6628094566032726748
+      NES - Super Mario Bros - Mario & Luigi_97: -6893975921984507446
+      NES - Super Mario Bros - Mario & Luigi_100: 1366199277624040203
+      NES - Super Mario Bros - Mario & Luigi_206: -8055595323256955332
+      NES - Super Mario Bros - Mario & Luigi_136: 7346299185356372993
+      NES - Super Mario Bros - Mario & Luigi_173: -7699885035339941999
+      NES - Super Mario Bros - Mario & Luigi_158: 4851314118102146032
+      NES - Super Mario Bros - Mario & Luigi_120: 7499819653926715956
+      NES - Super Mario Bros - Mario & Luigi_3: 8609771650241553952
+      SmallMarioHit: 8251671179697366573
+      NES - Super Mario Bros - Mario & Luigi_128: -8966314651436737139
+      NES - Super Mario Bros - Mario & Luigi_0: -3732045684544685907
+      NES - Super Mario Bros - Mario & Luigi_220: 2773330448483806704
+      NES - Super Mario Bros - Mario & Luigi_52: 3357900316544176542
+      NES - Super Mario Bros - Mario & Luigi_187: 8999811638605030159
+      NES - Super Mario Bros - Mario & Luigi_176: 82952374921585770
+      NES - Super Mario Bros - Mario & Luigi_208: 7509713147542313633
+      NES - Super Mario Bros - Mario & Luigi_74: 5883456983360609583
+      NES - Super Mario Bros - Mario & Luigi_60: -3471206577773051391
+      NES - Super Mario Bros - Mario & Luigi_125: 5754394886204493128
+      NES - Super Mario Bros - Mario & Luigi_142: 252570087666416557
+      NES - Super Mario Bros - Mario & Luigi_87: -8034158532752493407
+      MarioSwim06: -1183203536663411426
+      NES - Super Mario Bros - Mario & Luigi_81: -4634838776969020487
+      NES - Super Mario Bros - Mario & Luigi_191: -5493889194141539243
+      NES - Super Mario Bros - Mario & Luigi_147: -8901930708121883704
+      NES - Super Mario Bros - Mario & Luigi_213: -73597391956192280
+      NES - Super Mario Bros - Mario & Luigi_124: 6328658790875466407
+      NES - Super Mario Bros - Mario & Luigi_103: 6388530042228724481
+      NES - Super Mario Bros - Mario & Luigi_218: 2117827734101540019
+      NES - Super Mario Bros - Mario & Luigi_217: -7194507248833647539
+      NES - Super Mario Bros - Mario & Luigi_211: 318514919587422925
+      NES - Super Mario Bros - Mario & Luigi_53: -7260914685694701054
+      NES - Super Mario Bros - Mario & Luigi_48: 264560019613767860
+      NES - Super Mario Bros - Mario & Luigi_155: -4074837237766819510
+      NES - Super Mario Bros - Mario & Luigi_138: -6582763671134256616
+      NES - Super Mario Bros - Mario & Luigi_88: -5831306567283398087
+      NES - Super Mario Bros - Mario & Luigi_132: -5702278073552729361
+      NES - Super Mario Bros - Mario & Luigi_188: 4807823946374914370
+      MarioRun02: 6159358680947774985
+      NES - Super Mario Bros - Mario & Luigi_230: -3691126280411254450
+      NES - Super Mario Bros - Mario & Luigi_209: 4505022004396442156
+      NES - Super Mario Bros - Mario & Luigi_94: -2777963267033201388
+      NES - Super Mario Bros - Mario & Luigi_152: -6422058036745984271
+      NES - Super Mario Bros - Mario & Luigi_236: 4367976521965412105
+      NES - Super Mario Bros - Mario & Luigi_127: 8108982263697354782
+      NES - Super Mario Bros - Mario & Luigi_159: 3938892500728737358
+      NES - Super Mario Bros - Mario & Luigi_115: -2407595590906520883
+      NES - Super Mario Bros - Mario & Luigi_195: 3367238281120950906
+      NES - Super Mario Bros - Mario & Luigi_117: -5180530368802960027
+      NES - Super Mario Bros - Mario & Luigi_95: 2652434364506285281
+      NES - Super Mario Bros - Mario & Luigi_168: -2665343017715751110
+      NES - Super Mario Bros - Mario & Luigi_216: -7905681553634316923
+      NES - Super Mario Bros - Mario & Luigi_112: -8389521827540732974
+      NES - Super Mario Bros - Mario & Luigi_62: -2722874645893262597
+      NES - Super Mario Bros - Mario & Luigi_47: 8855645137364886891
+      NES - Super Mario Bros - Mario & Luigi_137: 5206088746610520373
+      SmallMarioWalk03: -1570668979892962797
+      MarioWalk01: -6866425942889956885
+      NES - Super Mario Bros - Mario & Luigi_146: -1026457129792731704
+      NES - Super Mario Bros - Mario & Luigi_126: -5255601762991755767
+      NES - Super Mario Bros - Mario & Luigi_99: -1594882242449611129
+      NES - Super Mario Bros - Mario & Luigi_170: -1210835589163792672
+      NES - Super Mario Bros - Mario & Luigi_2: 2761738562309040904
+      NES - Super Mario Bros - Mario & Luigi_186: -5723623193094995304
+      NES - Super Mario Bros - Mario & Luigi_151: -1865875380452388728
+      NES - Super Mario Bros - Mario & Luigi_180: 1246439901204231237
+      MarioWalk02: 131010899740491702
+      NES - Super Mario Bros - Mario & Luigi_75: -7785473766151709623
+      NES - Super Mario Bros - Mario & Luigi_92: -9164978346059416877
+      NES - Super Mario Bros - Mario & Luigi_73: -6903989855974962543
+      NES - Super Mario Bros - Mario & Luigi_82: -3501121555020129395
+      NES - Super Mario Bros - Mario & Luigi_65: 6630438571230937717
+      SmallMarioWalk02: -6178639469067718694
+      NES - Super Mario Bros - Mario & Luigi_106: 6183570489006415731
+      NES - Super Mario Bros - Mario & Luigi_86: -2259735705296707208
+      NES - Super Mario Bros - Mario & Luigi_131: 3200882280515364722
+      NES - Super Mario Bros - Mario & Luigi_79: -4740178728852594780
+      NES - Super Mario Bros - Mario & Luigi_107: -5328195868536377192
+      NES - Super Mario Bros - Mario & Luigi_233: -8049353710455134572
+      NES - Super Mario Bros - Mario & Luigi_71: 2998258031034774917
+      NES - Super Mario Bros - Mario & Luigi_68: -4506179843239735359
+      NES - Super Mario Bros - Mario & Luigi_108: 4684878579109012640
+      NES - Super Mario Bros - Mario & Luigi_160: -8080620226157887726
+      NES - Super Mario Bros - Mario & Luigi_169: 4368504426241910999
+      NES - Super Mario Bros - Mario & Luigi_89: -2188615222880088673
+      NES - Super Mario Bros - Mario & Luigi_203: -8001339940396863157
+      SmallMarioSwim02: 4496255409200150117
+      NES - Super Mario Bros - Mario & Luigi_91: -4238327203704775461
+      NES - Super Mario Bros - Mario & Luigi_93: 7631990323299250359
+      NES - Super Mario Bros - Mario & Luigi_63: -843152059217385604
+      NES - Super Mario Bros - Mario & Luigi_163: -5122051692720940522
+      NES - Super Mario Bros - Mario & Luigi_212: 8008698225745750787
+      SmallMarioPoll02: 2614374642221907857
+      NES - Super Mario Bros - Mario & Luigi_69: -2396110542289418822
+      NES - Super Mario Bros - Mario & Luigi_171: 7024393446931038654
+      NES - Super Mario Bros - Mario & Luigi_135: -1927698943683358312
+      NES - Super Mario Bros - Mario & Luigi_234: -6754889775413148871
+      SmallMarioWalk01: 5034253560857214668
+      NES - Super Mario Bros - Mario & Luigi_110: -2772476662159351499
+      NES - Super Mario Bros - Mario & Luigi_76: 2829751741159579075
+      SmallMarioSwim03: -2122281518289928267
+      NES - Super Mario Bros - Mario & Luigi_56: 5975118214727848756
+      NES - Super Mario Bros - Mario & Luigi_84: 6335909957366242131
+      NES - Super Mario Bros - Mario & Luigi_205: -140623426789601203
+      NES - Super Mario Bros - Mario & Luigi_139: 2286375594036224327
+      NES - Super Mario Bros - Mario & Luigi_162: 3243913512752233624
+      NES - Super Mario Bros - Mario & Luigi_192: 8462870308871004849
+      NES - Super Mario Bros - Mario & Luigi_219: 9149357410853433875
+      NES - Super Mario Bros - Mario & Luigi_223: 6464353328832549110
+      NES - Super Mario Bros - Mario & Luigi_105: -8339892950072816060
+      NES - Super Mario Bros - Mario & Luigi_235: 754702916283080018
+      MarioTurn: 4073101619456933093
+      NES - Super Mario Bros - Mario & Luigi_45: -5470124157715931385
+      MarioSwim04: 7598896308846056451
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
