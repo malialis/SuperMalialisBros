@@ -10,4 +10,12 @@ public class SideScrolling : MonoBehaviour
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
     }
+
+
+    private void LateUpdate()
+    {
+        
+    }
+
+
 }
