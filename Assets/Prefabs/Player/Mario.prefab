@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1288878337}
   m_Layer: 6
   m_Name: Fire
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -113,6 +113,8 @@ GameObject:
   - component: {fileID: 6468256249050988955}
   - component: {fileID: 9170004301249175579}
   - component: {fileID: 554803939092875217}
+  - component: {fileID: -6243282735761429479}
+  - component: {fileID: -4688202583542319485}
   m_Layer: 6
   m_Name: Mario
   m_TagString: Player
@@ -190,6 +192,35 @@ MonoBehaviour:
   moveSpeed: 8
   maxJumpHeight: 5
   maxJumpTime: 1
+--- !u!114 &-6243282735761429479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5569201416900433350}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8e2106e383f548d08300c540ac9ece8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  smallMarioRenderer: {fileID: 1512284661}
+  bigMarioRenderer: {fileID: 1098875570}
+  deathAnimation: {fileID: -4688202583542319485}
+--- !u!114 &-4688202583542319485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5569201416900433350}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27101ecb50bb942d592cba459a339a5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deathSprite: {fileID: 21300000, guid: 0bfaffabdef6d4ec2bd4dc8be9434ae7, type: 3}
+  _spriteRenderer: {fileID: 5569201416926668545}
 --- !u!1 &5569201416926668547
 GameObject:
   m_ObjectHideFlags: 0
@@ -201,9 +232,10 @@ GameObject:
   - component: {fileID: 5569201416926668546}
   - component: {fileID: 5569201416926668545}
   - component: {fileID: 1512284661}
+  - component: {fileID: 7110550007520697704}
   m_Layer: 6
   m_Name: Small
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -290,7 +322,25 @@ MonoBehaviour:
   idle: {fileID: 21300000, guid: 00a592b425a584855a56285e86bce7bc, type: 3}
   jump: {fileID: 21300000, guid: 0d3f01f000864446dbd35eef41c22f8f, type: 3}
   slide: {fileID: 21300000, guid: eec0f3f1c68b547c8ba015427ac7afd7, type: 3}
-  run: {fileID: 21300000, guid: b623640568e70492299d5373d32d9875, type: 3}
+  run: {fileID: 7110550007520697704}
+--- !u!114 &7110550007520697704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5569201416926668547}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baa5f51da982241d09540acb075104e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: b623640568e70492299d5373d32d9875, type: 3}
+  - {fileID: 21300000, guid: 3c5a863474188434782b59086bb51107, type: 3}
+  - {fileID: 21300000, guid: 090bde4b0f24a49b7bb18923baaba070, type: 3}
+  - {fileID: 21300000, guid: 3c5a863474188434782b59086bb51107, type: 3}
+  frameRate: 0.16666667
 --- !u!1 &5569201417540747072
 GameObject:
   m_ObjectHideFlags: 0
@@ -302,9 +352,10 @@ GameObject:
   - component: {fileID: 5569201417540747079}
   - component: {fileID: 5569201417540747078}
   - component: {fileID: 1098875570}
+  - component: {fileID: 5411072392301436326}
   m_Layer: 6
   m_Name: Big
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -331,7 +382,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5569201417540747072}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -383,7 +434,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5569201417540747072}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3a6d0bd545a46401dba9e112b63a397e, type: 3}
   m_Name: 
@@ -391,4 +442,22 @@ MonoBehaviour:
   idle: {fileID: 21300000, guid: 8dd96e41bc408462999c610bcf5f4936, type: 3}
   jump: {fileID: 21300000, guid: 1a74991274a4d40baa2dccf5e8be5e91, type: 3}
   slide: {fileID: 21300000, guid: 0df8982b4b31d464089623f8125d449d, type: 3}
-  run: {fileID: 21300000, guid: f314252bc393449a18d23aac555b0053, type: 3}
+  run: {fileID: 5411072392301436326}
+--- !u!114 &5411072392301436326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5569201417540747072}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baa5f51da982241d09540acb075104e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: f314252bc393449a18d23aac555b0053, type: 3}
+  - {fileID: 21300000, guid: d4f1010c03f814b9bb7b96c2c19bc49f, type: 3}
+  - {fileID: 21300000, guid: 4937d55c058374625b6b98553def3927, type: 3}
+  - {fileID: 21300000, guid: d4f1010c03f814b9bb7b96c2c19bc49f, type: 3}
+  frameRate: 0.16666667

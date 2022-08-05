@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6909730838096108607}
   - component: {fileID: 7969328435529657542}
   - component: {fileID: 6912862626807931400}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tunnel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -120,7 +120,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2791262032054934199}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: PipeConnection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -156,7 +156,7 @@ GameObject:
   - component: {fileID: 8939248771952660118}
   - component: {fileID: 5199930091808130305}
   - component: {fileID: 2270422887765339596}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Connector
   m_TagString: Untagged
   m_Icon: {fileID: 0}
