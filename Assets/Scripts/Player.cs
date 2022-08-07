@@ -6,7 +6,7 @@ public class Player : MonoBehaviour
 {
     public PlayerSpriteRenderer smallMarioRenderer;
     public PlayerSpriteRenderer bigMarioRenderer;
-
+    
     public DeathAnimation deathAnimation;
 
     public bool bigMario => bigMarioRenderer.enabled;
