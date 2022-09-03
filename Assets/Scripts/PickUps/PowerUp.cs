@@ -37,7 +37,7 @@ public class PowerUp : MonoBehaviour
                 //
                 break;
             case Type.MagicMushroom:
-                //
+                player.GetComponent<Player>().Grow();
                 break;
             case Type.StarPower:
                 //

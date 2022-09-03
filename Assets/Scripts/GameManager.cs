@@ -16,6 +16,8 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
+        Application.targetFrameRate = 24;
+
         if(Instance != null)
         {
             DestroyImmediate(gameObject);
