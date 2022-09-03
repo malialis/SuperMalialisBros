@@ -16,6 +16,7 @@ public class PlayerMovement : MonoBehaviour
     public float jumpForce => (2f * maxJumpHeight) / (maxJumpTime / 2f);
     public float gravity => (-2f * maxJumpHeight) / Mathf.Pow((maxJumpTime / 2f), 2);
 
+    public bool isSwimming;
     public bool isGrounded { get; private set; }
     public bool jumping { get; private set; }
     public bool running => Mathf.Abs(velocity.x) > 0.25 || Mathf.Abs(inputAxis) > 0.25f;
@@ -39,6 +40,10 @@ public class PlayerMovement : MonoBehaviour
             GroundedMovement();
         }
 
+        if (isSwimming)
+        {
+            ApplyWaterGravity();
+        }
         ApplyGravity();
     }
 
@@ -91,6 +96,15 @@ public class PlayerMovement : MonoBehaviour
     {
         bool isFalling = velocity.y < 0.0f || !Input.GetButton("Jump");
         float multiplier = isFalling ? 2f : 1f;
+
+        velocity.y += gravity * multiplier * Time.deltaTime;
+        velocity.y = Mathf.Max(velocity.y, gravity / 2f);
+    }
+
+    private void ApplyWaterGravity()
+    {
+        bool isFalling = velocity.y < 0.0f || !Input.GetButton("Jump");
+        float multiplier = isFalling ? 1.25f : .75f;
 
         velocity.y += gravity * multiplier * Time.deltaTime;
         velocity.y = Mathf.Max(velocity.y, gravity / 2f);

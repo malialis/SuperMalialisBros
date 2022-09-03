@@ -4,7 +4,7 @@ using UnityEngine;
 
 public static class Extensions 
 {
-    private static LayerMask layerMask = LayerMask.GetMask("Ground");
+    private static LayerMask layerMask = LayerMask.GetMask("Default");
 
     public static bool Raycast(this Rigidbody2D _rigidBody, Vector2 direction)
     {
